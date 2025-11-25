@@ -1,0 +1,5 @@
+{
+  "name": "NutriTrack",
+  "description": "A smart food and calorie tracker app that helps you hit your health goals. Features AI-powered food analysis.",
+  "requestFramePermissions": []
+}
